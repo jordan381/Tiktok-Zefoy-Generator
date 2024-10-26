@@ -289,7 +289,7 @@ class Main:
     ███     ███    ███▐██▄     ███    ██▄ ███    ███     ███     
     ███     ███    ███ ▀███▄   ███    ███ ███    ███     ███     
    ▄████▀   █▀     ███   ▀█▀ ▄█████████▀   ▀██████▀     ▄████▀   
-                   ▀ by @Kenokey
+                   ▀ by @Flux
         """ + Fore.RESET)
 
         self.driver.get("https://zefoy.com/")
